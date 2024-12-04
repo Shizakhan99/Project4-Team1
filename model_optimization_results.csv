@@ -1,0 +1,3 @@
+Model,Accuracy,R-squared,Best var_smoothing
+Initial,0.8679060665362035,-1.3180443548387104,
+Optimized,0.8679060665362035,-1.3180443548387104,1e-09
