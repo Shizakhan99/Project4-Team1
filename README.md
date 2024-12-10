@@ -47,7 +47,7 @@ Logistic Regression:
 A baseline model for classification using logistic regression.
 
 K-Nearest Neighbors (KNN):
-Classification model using KNN with 3 neighbors.
+Classification model using KNN with 14 neighbors.
 
 Decision Tree Classifier:
 A decision tree model to classify based on the most important features.
